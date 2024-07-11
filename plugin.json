@@ -1,0 +1,6 @@
+{
+    "name": "Plugin GSAP",
+    "description": "gsap from the require()",
+    "version": "v1.0",
+    "enabled": true
+}
